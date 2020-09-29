@@ -1,0 +1,63 @@
+2020-09-29T11:19:47,072 [main] INFO  (BaseClass.java:49) - ********* starting TC on chrome*************
+2020-09-29T11:19:51,266 [main] INFO  (TC_001_LoginTest.java:18) - ********* starting TC_LoginTest_001 *************
+2020-09-29T11:19:54,157 [main] INFO  (TC_001_LoginTest.java:24) - ********* Providing login details to application *************
+2020-09-29T11:19:54,426 [main] INFO  (TC_001_LoginTest.java:29) - *********Clicking on the login button*************
+2020-09-29T11:20:00,119 [main] INFO  (TC_001_LoginTest.java:37) - ********* Login validation starting..*************
+2020-09-29T11:20:00,120 [main] INFO  (TC_001_LoginTest.java:41) - *********Login Test passed*************
+2020-09-29T11:20:01,474 [main] INFO  (BaseClass.java:49) - ********* starting TC on chrome*************
+2020-09-29T11:20:04,788 [main] INFO  (TC_002_DataDrivenTest_Login_with_Fillo.java:17) - ********* starting TC_002_DataDrivenTest_Login_with_Fillo *************
+2020-09-29T11:20:10,093 [main] INFO  (TC_002_DataDrivenTest_Login_with_Fillo.java:39) - ********* Providing login details to application *************
+2020-09-29T11:20:22,789 [main] INFO  (TC_002_DataDrivenTest_Login_with_Fillo.java:58) - **************** loginTest is Passed ************* 
+2020-09-29T11:20:27,537 [main] INFO  (TC_002_DataDrivenTest_Login_with_Fillo.java:39) - ********* Providing login details to application *************
+2020-09-29T11:20:35,468 [main] INFO  (TC_002_DataDrivenTest_Login_with_Fillo.java:81) - **************** loginTest is Passed ************* 
+2020-09-29T11:20:35,470 [main] INFO  (TC_002_DataDrivenTest_Login_with_Fillo.java:39) - ********* Providing login details to application *************
+2020-09-29T11:20:43,353 [main] INFO  (TC_002_DataDrivenTest_Login_with_Fillo.java:81) - **************** loginTest is Passed ************* 
+2020-09-29T11:20:43,356 [main] INFO  (TC_002_DataDrivenTest_Login_with_Fillo.java:39) - ********* Providing login details to application *************
+2020-09-29T11:20:51,231 [main] INFO  (TC_002_DataDrivenTest_Login_with_Fillo.java:81) - **************** loginTest is Passed ************* 
+2020-09-29T11:20:51,232 [main] INFO  (TC_002_DataDrivenTest_Login_with_Fillo.java:89) - ********* Finished  TC_002_DataDrivenTest_Login_with_Fillo *************
+2020-09-29T11:20:51,923 [main] INFO  (BaseClass.java:49) - ********* starting TC on chrome*************
+2020-09-29T11:20:55,232 [main] INFO  (TC_003_AddCustomerTest.java:17) - ********* starting TC_AddCustomerTest_003 *************
+2020-09-29T11:21:09,502 [main] INFO  (TC_003_AddCustomerTest.java:26) - *********Adding new customer *************
+2020-09-29T11:21:16,228 [main] INFO  (TC_003_AddCustomerTest.java:35) - ***************  Providing customer details  *********** 
+2020-09-29T11:21:28,308 [main] INFO  (TC_003_AddCustomerTest.java:54) - ***************  Customer added succesfully *********** 
+2020-09-29T11:21:28,309 [main] INFO  (TC_003_AddCustomerTest.java:62) - ***************   TC_AddCustomerTest_003 Finished  *********** 
+2020-09-29T11:21:28,975 [main] INFO  (BaseClass.java:49) - ********* starting TC on chrome*************
+2020-09-29T11:21:32,303 [main] INFO  (TC_004_SearchCustomerByEmail.java:19) - ********* starting TC_SearchCustomerByEmail_004 *************
+2020-09-29T11:21:44,583 [main] INFO  (TC_004_SearchCustomerByEmail.java:42) - ********* Search customer by email is passed *************
+2020-09-29T11:21:44,583 [main] INFO  (TC_004_SearchCustomerByEmail.java:51) - ********* End of TC_SearchCustomerByEmail_004 *************
+2020-09-29T11:21:45,228 [main] INFO  (BaseClass.java:49) - ********* starting TC on chrome*************
+2020-09-29T11:21:48,496 [main] INFO  (TC_005_SearchCustomerByName.java:19) - ********* starting TC_SearchCustomerByName_005 *************
+2020-09-29T11:22:04,061 [main] INFO  (TC_005_SearchCustomerByName.java:43) - ********* Search customer by name is failed*************
+2020-09-29T11:22:05,046 [main] INFO  (BaseClass.java:49) - ********* starting TC on chrome*************
+2020-09-29T11:22:09,120 [main] INFO  (TC_006_LoginDDT_with_Apachi_poi.java:18) - ********* starting TC_006_LoginDDT *************
+2020-09-29T11:22:24,445 [main] INFO  (TC_006_LoginDDT_with_Apachi_poi.java:34) - **************** loginTest is Passed ************* 
+2020-09-29T11:22:29,203 [main] INFO  (TC_006_LoginDDT_with_Apachi_poi.java:62) - ********* Finished  TC_006_LoginDDT *************
+2020-09-29T11:22:29,214 [main] INFO  (TC_006_LoginDDT_with_Apachi_poi.java:18) - ********* starting TC_006_LoginDDT *************
+2020-09-29T11:22:36,382 [main] INFO  (TC_006_LoginDDT_with_Apachi_poi.java:57) - **************** loginTest is Passed ************* 
+2020-09-29T11:22:36,383 [main] INFO  (TC_006_LoginDDT_with_Apachi_poi.java:62) - ********* Finished  TC_006_LoginDDT *************
+2020-09-29T11:22:36,393 [main] INFO  (TC_006_LoginDDT_with_Apachi_poi.java:18) - ********* starting TC_006_LoginDDT *************
+2020-09-29T11:22:43,343 [main] INFO  (TC_006_LoginDDT_with_Apachi_poi.java:57) - **************** loginTest is Passed ************* 
+2020-09-29T11:22:43,344 [main] INFO  (TC_006_LoginDDT_with_Apachi_poi.java:62) - ********* Finished  TC_006_LoginDDT *************
+2020-09-29T11:22:43,352 [main] INFO  (TC_006_LoginDDT_with_Apachi_poi.java:18) - ********* starting TC_006_LoginDDT *************
+2020-09-29T11:22:50,339 [main] INFO  (TC_006_LoginDDT_with_Apachi_poi.java:57) - **************** loginTest is Passed ************* 
+2020-09-29T11:22:50,340 [main] INFO  (TC_006_LoginDDT_with_Apachi_poi.java:62) - ********* Finished  TC_006_LoginDDT *************
+2020-09-29T11:22:51,024 [main] INFO  (BaseClass.java:49) - ********* starting TC on chrome*************
+2020-09-29T11:22:54,451 [main] INFO  (TC_007_DataDrivenTestxls_with_Fillo_one_entry.java:53) - ********* Starting TC_007_DataDrivenTestxls_with_Fillo_one_entry *************
+2020-09-29T11:22:54,452 [main] INFO  (TC_007_DataDrivenTestxls_with_Fillo_one_entry.java:55) - ********* Providing login to application *************
+2020-09-29T11:22:57,489 [main] INFO  (TC_007_DataDrivenTestxls_with_Fillo_one_entry.java:61) - ********* Providing login details to application *************
+2020-09-29T11:23:08,464 [main] INFO  (TC_007_DataDrivenTestxls_with_Fillo_one_entry.java:79) - **************** loginTest is Passed ************* 
+2020-09-29T11:23:13,197 [main] INFO  (TC_007_DataDrivenTestxls_with_Fillo_one_entry.java:108) - ********* Finished  TC_007_DataDrivenTestxls_with_Fillo_one_entry *************
+2020-09-29T11:23:13,902 [main] INFO  (BaseClass.java:49) - ********* starting TC on chrome*************
+2020-09-29T11:23:17,330 [main] INFO  (TC_008_DataDrivenTest_Login_with_Fillo_Data_Provider.java:79) - ********* starting TC_008_DataDrivenTest_Login_with_Fillo_Data_Provider *************
+2020-09-29T11:23:17,408 [main] INFO  (TC_008_DataDrivenTest_Login_with_Fillo_Data_Provider.java:97) - ********* Providing login details to application *************
+2020-09-29T11:23:17,408 [main] INFO  (TC_008_DataDrivenTest_Login_with_Fillo_Data_Provider.java:97) - ********* Providing login details to application *************
+2020-09-29T11:23:17,409 [main] INFO  (TC_008_DataDrivenTest_Login_with_Fillo_Data_Provider.java:97) - ********* Providing login details to application *************
+2020-09-29T11:23:17,409 [main] INFO  (TC_008_DataDrivenTest_Login_with_Fillo_Data_Provider.java:97) - ********* Providing login details to application *************
+2020-09-29T11:23:31,177 [main] INFO  (TC_008_DataDrivenTest_Login_with_Fillo_Data_Provider.java:43) - **************** loginTest is Passed ************* 
+2020-09-29T11:23:35,920 [main] INFO  (TC_008_DataDrivenTest_Login_with_Fillo_Data_Provider.java:71) - ********* Finished  TC_008_DataDrivenTest_Login_with_Fillo_Data_Provider *************
+2020-09-29T11:23:43,031 [main] INFO  (TC_008_DataDrivenTest_Login_with_Fillo_Data_Provider.java:66) - **************** loginTest is Passed ************* 
+2020-09-29T11:23:43,033 [main] INFO  (TC_008_DataDrivenTest_Login_with_Fillo_Data_Provider.java:71) - ********* Finished  TC_008_DataDrivenTest_Login_with_Fillo_Data_Provider *************
+2020-09-29T11:23:50,018 [main] INFO  (TC_008_DataDrivenTest_Login_with_Fillo_Data_Provider.java:66) - **************** loginTest is Passed ************* 
+2020-09-29T11:23:50,019 [main] INFO  (TC_008_DataDrivenTest_Login_with_Fillo_Data_Provider.java:71) - ********* Finished  TC_008_DataDrivenTest_Login_with_Fillo_Data_Provider *************
+2020-09-29T11:23:57,010 [main] INFO  (TC_008_DataDrivenTest_Login_with_Fillo_Data_Provider.java:66) - **************** loginTest is Passed ************* 
+2020-09-29T11:23:57,011 [main] INFO  (TC_008_DataDrivenTest_Login_with_Fillo_Data_Provider.java:71) - ********* Finished  TC_008_DataDrivenTest_Login_with_Fillo_Data_Provider *************

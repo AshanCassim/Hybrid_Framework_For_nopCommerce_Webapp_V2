@@ -1,0 +1,9 @@
+app\nopcommerce\testCases\TC_AddCustomerTest_003.class
+app\nopcommerce\testCases\TC_LoginTest_001.class
+app\nopcommerce\Utilities\ExtentReportManager.class
+app\nopcommerce\pageObjects\AddcustomerPage.class
+app\nopcommerce\testCases\DataDrivenTestxls.class
+app\nopcommerce\testCases\TC_DataDrivenTest_Login_002.class
+app\nopcommerce\pageObjects\LoginPage.class
+app\nopcommerce\testBase\BaseClass.class
+app\nopcommerce\Utilities\ReadConfig.class
